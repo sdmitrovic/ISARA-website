@@ -1,0 +1,14 @@
+<ul class="menubar">
+  {% for p in site.menubar %}
+    <li>
+      {% if p.home %}
+        <!-- Do not highlight caption if on Home page -->
+        <a href="{{ site.baseurl }}{{ p.url }}">
+      {% else %}
+        <a {% if p.url == page.url %}class="menubar-selection"{% endif %} href="{{ site.baseurl }}{{ p.url }}">
+      {% endif %}
+        {{ p.title }}
+      </a>
+   </li>
+ {% endfor %}
+</ul>

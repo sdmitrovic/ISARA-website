@@ -1,0 +1,96 @@
+body {
+    font-family: sans-serif;
+    padding: 1em;
+}
+
+em, i, cite {
+    font-style: italic;
+}
+
+strong, b {
+    font-weight: bold;
+}
+
+a:link {
+    color: blue;
+    text-decoration: none
+}
+
+a:visited {
+    color: purple;
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline
+}
+
+a:active {
+    color: red;
+}
+
+.site-name {
+    display: block;
+    text-align: center;
+}
+
+nav {
+}
+
+nav ul {
+    list-style: none;
+}
+
+.footer {
+    border-top: dotted gray thin;
+    margin-top: 1em;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    text-align: center;
+}
+
+ul.menubar {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+ul.menubar li {
+    float: left;
+}
+
+ul.menubar li a {
+    color: black;
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
+ul.menubar li a:hover:not(.menubar-selection) {
+    background-color: #4169E1;
+}
+
+.menubar-selection {
+    background-color: #4169E1;
+}
+
+section.jumpdown {
+    border-top: dotted gray thin;
+    border-bottom: dotted gray thin;
+    font-size: 75%;
+    padding: 0.5em;
+}
+
+section.content {
+    padding-top: 1.5em;
+}
+
+table {
+    border: dotted gray thin;
+}
+
+td {
+    border-top: dotted gray thin;
+}
