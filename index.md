@@ -5,7 +5,7 @@ title: SOFTWARE PROJECT
 home: true
 ---
 
-TODO DESCRIBE {{ site.software_name }}.
+{{ site.software_name }}  ...
 
 ## Authors
 
