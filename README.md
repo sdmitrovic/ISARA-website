@@ -5,12 +5,12 @@ project web site.
 
 To view the web site, visit http://softwaresaved.github.io/sample-site.
 
-## About the site
-
 The site is written in HTML and
 [MarkDown](http://daringfireball.net/projects/markdown/syntax), uses
 [Jekyll](http://jekyllrb.com/) templates and is rendered via [GitHub
 pages](https://pages.github.com/).
+
+---
 
 ## Using the site
 
