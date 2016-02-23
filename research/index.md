@@ -4,10 +4,11 @@ root: ..
 title: Research
 ---
 
-This page summarises how {{ site.project_name }} has contributed to
+This page summarises how {{ site.software_name }} has contributed to
 research. If you have publications, presentations, posters,
-newsletters or blog posts on how you have used {{ site.project_name }}
-then please [get in touch](../project/HelpAndSupport.html).
+newsletters or blog posts on how you have used 
+{{ site.software_name }} then please 
+[get in touch](../project/HelpAndSupport.html).
 
 ---
 

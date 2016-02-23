@@ -1,14 +1,17 @@
 # Site settings
-project_name: PROJECT
-project_site: http://TODO_SITE
-email: EMAIL@TODO
+project_name: The Software Sustainability Institute
+project_site: http://softwaresaved.github.io/sample-site
+software_name: SOFTWARE
+email: info@software.ac.uk
 mailing_list: MAILINGLIST@TODO
 mailing_list_archive: http://www.google.co.uk
-issue_tracker: http://github.com/PROJECT/REPOSITORY/issues
-issue_tracker_new_issue: http://github.com/PROJECT/REPOSITORY/issues/new
+issue_tracker: http://github.com/softwaresaved/sample-site/issues
+issue_tracker_new_issue: http://github.com/softwaresaved/sample-site/issues/new
 code_repository: http://github.com/PROJECT/CODE_REPOSITORY
-doc_repository: http://github.com/PROJECT/DOC_REPOSITORY
+doc_repository: http://github.com/softwaresaved/sample-site
 copyright: 2014-2016, ORGANISATION. All rights reserved.
+doc_licence: "Creative Commons Attribution-NonCommercial 2.5 UK: Scotland (CC BY-NC 2.5 SCOTLAND)"
+doc_licence_url: http://creativecommons.org/licenses/by-nc/2.5/scotland/
 
 # gh-pages site subpath
 baseurl: "/sample-site"
@@ -37,6 +40,3 @@ menubar:
 # Build settings
 highlighter: rouge
 markdown: kramdown
-
-gems:
-  - jekyll-sitemap

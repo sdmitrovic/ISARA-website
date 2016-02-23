@@ -1,16 +1,18 @@
 ---
 layout: home
 root: .
-title: PROJECT SITE
+title: SOFTWARE PROJECT
 home: true
 ---
 
-TODO DESCRIBE {{ site.project_name }}.
+TODO DESCRIBE {{ site.software_name }}.
 
 ## Authors
 
-TODO DESCRIBE {{ site.project_name }} AUTHORS
+{{ site.software_name }} was written by...
 
 ## Acknowledgements
 
-TODO DESCRIBE {{ site.project_name }} FUNDERS
+{{ site.software_name }} was funded by... and ... and we also
+acknowledge the contributions of our
+[contributors](./project/Contributing.html#contributors).

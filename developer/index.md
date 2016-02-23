@@ -4,8 +4,9 @@ root: ..
 title: Develop
 ---
 
-Information on how to develop {{ site.project_name }}. This can
-include developer tools, test tools, how to develop components, how to
-write tests, coding standards, release process etc.
+These pages contain information on how to develop
+{{ site.software_name }}. This include accessing the source code,
+development tools, test tools, how to develop components, how to
+write tests, coding standards, and release process.
 
 * [Coding standards](./CodingStandards.html)

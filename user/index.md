@@ -4,4 +4,5 @@ root: ..
 title: Use
 ---
 
-Information on how to install and use {{ site.project_name }}.
+These pages contain information on how to install and 
+use {{ site.software_name }}.

@@ -1,12 +1,32 @@
 # Sample web site
 
-This repository contains the pages for a sample web site. It is
-written in HTML and
+This repository contains a template for a sample research software
+project web site. 
+
+To view the web site, visit http://softwaresaved.github.io/sample-site.
+
+## About the site
+
+The site is written in HTML and
 [MarkDown](http://daringfireball.net/projects/markdown/syntax), uses
 [Jekyll](http://jekyllrb.com/) templates and is rendered via [GitHub
 pages](https://pages.github.com/).
 
-To view the web site, visit http://softwaresaved.github.io/sample-site.
+## Using the site
+
+This site is a **template** - it cannot be used as-is and requires
+customisation to your specific requirements.
+
+If you wish to use it you should:
+
+* Read, and work through, [GitHub pages](https://pages.github.com/).
+* Clone this repository.
+* Edit the configuration settings in `_config.yml`.
+* Check and, if necessary, update the pages in `_includes` and 
+  `_layout`.
+* Check and update every single `.md` file.
+
+Information on cloning, editing, and previewing the web site now follow.
 
 ## Editing the web site
 
