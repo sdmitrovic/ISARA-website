@@ -4,7 +4,7 @@ root: ..
 title: Research
 ---
 
-This page summarises how {{ site.software_name }} has contributed to
+This page summarizes how {{ site.software_name }} has contributed to
 research. If you have publications, presentations, posters,
 newsletters or blog posts on how you have used 
 {{ site.software_name }} then please 
@@ -23,10 +23,3 @@ newsletters or blog posts on how you have used
 ## Workshops, presentations and posters
 
 ---
-
-## Blog posts
-
----
-
-## Case studies
-

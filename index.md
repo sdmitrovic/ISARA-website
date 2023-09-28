@@ -1,18 +1,21 @@
 ---
 layout: home
 root: .
-title: SOFTWARE PROJECT
+title: ISARA
 home: true
 ---
 
-{{ site.software_name }}  ...
-
+{{ site.software_name }} is an open-source Python codebase that models ambient aerosol optical and microphysical properties using user-inputted field
+campaign instrument data sets. This software calculates these properties separately for fine-mode and coarse-mode particles at the wavelength(s) and
+relative humidity (RH) level(s) of choice. {{ site.software_name }} also has the capability to handle spheroids and other irregularly-shaped particles.
+These features enable comprehensive evaluations of incredibly complex and diverse sets of aerosol particle profiles encountered within field campaigns.
+We hope that the community uses this software to streamline verification of field aerosol data sets and ultimately advance field campaign data quality
+assurance. More information on this software can be found ? and instructions for installation and use can be found ?.
+   
 ## Authors
 
-{{ site.software_name }} was written by...
+{{ site.software_name }} was first developed by Joseph Schlosser with ongoing development by Joseph Schlosser, Snorre Stamnes, and Sanja Dmitrovic. 
 
 ## Acknowledgements
 
-{{ site.software_name }} was funded by... and ... and we also
-acknowledge the contributions of our
-[contributors](./project/Contributing.html#contributors).
+{{ site.software_name }} is being developed in coordination with the Office of Naval Research, NASA Langley Research Center, and the University of Arizona.
