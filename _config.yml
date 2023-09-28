@@ -4,8 +4,8 @@ project_site: https://sdmitrovic.github.io/ISARA/
 software_name: ISARA
 email: sdmitrovic@arizona.edu
 code_repository: https://github.com/sdmitrovic/ISARA-Code
-doc_license: "Creative Commons Attribution-NonCommercial 2.5 UK: Scotland (CC BY-NC 2.5 SCOTLAND)"
-doc_license_url: http://creativecommons.org/licenses/by-nc/2.5/scotland/
+doc_license: "MIT License"
+doc_license_url: https://opensource.org/license/mit/
 
 # gh-pages site subpath
 baseurl: "/ISARA"

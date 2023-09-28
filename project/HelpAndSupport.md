@@ -1,7 +1,6 @@
 ---
 layout:	page
 root: ..
-title: Get in Touch, Help and Support (draft)
 ---
 
 ## How to get in touch
