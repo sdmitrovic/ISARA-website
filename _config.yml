@@ -1,19 +1,14 @@
 # Site settings
 project_name: In Situ Aerosol Retrieval Algorithm (ISARA)
-project_site: http://softwaresaved.github.io/sample-site
+project_site: https://sdmitrovic.github.io/ISARA/
 software_name: ISARA
 email: sdmitrovic@arizona.edu
-mailing_list: MAILINGLIST@TODO
-mailing_list_archive: http://www.google.co.uk
-issue_tracker: http://github.com/softwaresaved/sample-site/issues
-issue_tracker_new_issue: http://github.com/softwaresaved/sample-site/issues/new
-code_repository: http://github.com/PROJECT/CODE_REPOSITORY
-doc_repository: http://github.com/softwaresaved/sample-site
-doc_licence: "Creative Commons Attribution-NonCommercial 2.5 UK: Scotland (CC BY-NC 2.5 SCOTLAND)"
-doc_licence_url: http://creativecommons.org/licenses/by-nc/2.5/scotland/
+code_repository: https://github.com/sdmitrovic/ISARA-Code
+doc_license: "Creative Commons Attribution-NonCommercial 2.5 UK: Scotland (CC BY-NC 2.5 SCOTLAND)"
+doc_license_url: http://creativecommons.org/licenses/by-nc/2.5/scotland/
 
 # gh-pages site subpath
-baseurl: "/sample-site"
+baseurl: "/ISARA"
 
 # Entries for menubar.
 # title: caption used for item.
