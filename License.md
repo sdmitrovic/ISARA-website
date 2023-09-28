@@ -31,8 +31,4 @@ SOFTWARE.
 
 ## Third-party code
 
-{{ site.software_name }} includes the following third-party code.
-
-Modelled optical properties of ensembles of aerosol particles (MOPSMAP)
-
-* Web site: https://mopsmap.net/
+{{ site.software_name }} uses the "Modelled optical properties of ensembles of aerosol particles" (MOPSMAP) software package found at https://mopsmap.net/.
