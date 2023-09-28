@@ -1,7 +1,7 @@
 ---
 layout: home
 root: .
-title: ISARA
+title: In Situ Aerosol Retrieval Algorithm (ISARA)
 home: true
 ---
 
@@ -19,3 +19,9 @@ assurance. More information on this software can be found ? and instructions for
 ## Acknowledgements
 
 {{ site.software_name }} is being developed in coordination with the Office of Naval Research, NASA Langley Research Center, and the University of Arizona.
+
+## Notes
+
+This website may have trouble loading properly on Mozilla Firefox. To ensure that the website runs smoothly, go to Settings -> Privacy & Security -> uncheck
+"Query OCSP responder servers to confirm the current validity of certificates." If users have any other issues, please email us using the information listed
+in "Contact".

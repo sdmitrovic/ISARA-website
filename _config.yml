@@ -18,14 +18,14 @@ menubar:
   url: /index.html
 - title: Install
   url: /user/index.html
-- title: Application
+- title: User Guide
   url: /developer/index.html
 - title: Research
   url: /research/index.html
 - title: Contact
   url: /project/HelpAndSupport.html
 - title: Copyright and License
-  url: /CopyrightLicence.html
+  url: /LICENSE
 
 # Build settings
 highlighter: rouge
