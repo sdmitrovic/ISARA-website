@@ -25,7 +25,7 @@ menubar:
 - title: Contact
   url: /project/HelpAndSupport.html
 - title: Copyright and License
-  url: /LICENSE
+  url: /CopyrightLicense.md
 
 # Build settings
 highlighter: rouge
