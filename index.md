@@ -10,7 +10,8 @@ campaign instrument data sets. This software calculates these properties separat
 relative humidity (RH) level(s) of choice. {{ site.software_name }} also has the capability to handle spheroids and other irregularly-shaped particles.
 These features enable comprehensive evaluations of incredibly complex and diverse sets of aerosol particle profiles encountered within field campaigns.
 We hope that the community uses this software to streamline verification of field aerosol data sets and ultimately advance field campaign data quality
-assurance. More information on this software can be found ? and instructions for installation and use can be found ?.
+assurance. More information on this software including installation and use can be found in "User Guide". Click here to access application 
+(not yet available).
    
 ## Authors
 
