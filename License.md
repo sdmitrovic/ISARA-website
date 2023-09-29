@@ -3,7 +3,7 @@ layout: page
 root: ..
 ---
 
-Copyright (c) {{ site.copyright }}
+Copyright (c)
 
 MIT License
 
